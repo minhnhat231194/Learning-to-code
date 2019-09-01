@@ -18,3 +18,5 @@ press Ctr + C to stop the bot from running
 
 ## Fixes and improvements
 * Generate random text (to replace "<3") for spamming (maybe random jokes too?)
+q
+weqweqweqwe
